@@ -1,0 +1,37 @@
+ 
+
+
+               
+
+body{background-color:lightblue;}
+		
+		
+
+div{ 
+     color:red;
+ font-size:50px;
+   
+   
+	   text-align:center;
+	   background-image:url("Image/mobile.jpg");
+	   background-image:no-repeat;
+     background-size:300px 300px;
+   }
+   <br>
+
+
+   
+tbody { text-align:center;
+
+        background:#EFEFEF;
+        font-size:20px;
+     } 
+	
+
+	 
+thead{         font-size:22px;
+         color:black;
+        background:white;
+
+     }		
+	
